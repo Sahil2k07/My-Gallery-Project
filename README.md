@@ -9,4 +9,4 @@ apply styling to my website.
 - CSS
 
 ## Demo
-![Screenshot]()
+![Screenshot](Screenshot.png)
